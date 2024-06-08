@@ -1,9 +1,0 @@
-version: "3.3"
-
-services: 
-  RS:
-    image: "rs"
-    build: 
-      context: .
-      dockerfile: .dockerfile
-    
